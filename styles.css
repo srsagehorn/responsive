@@ -1,3 +1,41 @@
-.container img {
+.portImg {
   height: 200px;
+}
+
+.jumbotron {
+  color: white;
+  margin-top: 10px;
+}
+
+.bioPic {
+  float: left;
+}
+
+form {
+  color: white;
+}
+
+.portfolio {
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  margin: 10px;
+  padding: 5px;
+}
+
+.icon {
+  height: 50px;
+}
+
+footer p {
+  text-align: center;
 }
